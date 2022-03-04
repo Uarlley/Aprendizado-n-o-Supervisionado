@@ -1,2 +1,2 @@
-# Aprendizado-n-o-Supervisionado
+# Aprendizado-nao-Supervisionado
 Apresentação introdutória sobre aprendizado de máquina não supervisionado.
